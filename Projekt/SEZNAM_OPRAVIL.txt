@@ -1,0 +1,13 @@
+SEZNAM OPRAVIL:
+Spletna aplikacija bo zajemala več funkcionalnosti in sicer:
+- možnost kreacije opravil
+- opravilom se bo lahko pripisala kategorija po želji uporabnika (npr. delo, šola...)
+- opravila bo uporabnik lahko delil tudi glede na čas (weekly, daily...)
+- aplikacija bo seveda omogočala označitev opravljenih nalog in brisanje le teh
+- predvidena je tudi sekcija "in progress" kamor bo uporabnik lahko premaknil opravila na katerih trenutno dela - jQuery drag & drop
+- aplikacija bo omogočala prijavo in registracijo
+- aplikacija bo vsebovala varno shranjevanje gesel
+- za posodabljanje strani bo uporabljen AJAX
+- podatki bodo shranjeni v podatkovno bazo (mySQL na php myAdmin ali MongoDB)
+- aplikacija bo zmožna avtomatskega pošiljanja e-pošte (ob uspešni registraciji, po vsakem tednu...)
+- aplikacija bo najverjetneje imela povsem ločen FE in BE
